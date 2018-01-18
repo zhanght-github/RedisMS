@@ -1,4 +1,4 @@
-package com.example.redis.cache;
+package com.redis.cache;
 
 /**
  * Created by zhanghongtao on 2018/1/18.

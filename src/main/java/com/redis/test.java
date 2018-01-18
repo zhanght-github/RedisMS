@@ -1,4 +1,4 @@
-package com.example.redis;
+package com.redis;
 
 /**
  * Created by zhanghongtao on 2018/1/18.
